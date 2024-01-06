@@ -91,6 +91,8 @@ h2{
   cursor : pointer;
   color: var(--Very-pale-blue)
 }
+.button-1:active{
+  background-color: var(--Desaturated-blue);
 .cancel{
   display: block;
   color: var(--Desaturated-blue);
@@ -99,6 +101,7 @@ h2{
   margin: 25px auto;
   text-align: center;
   font-size: .9em;
+  cursor: pointer;
 }
 @media (max-width:500px) {
   body{
