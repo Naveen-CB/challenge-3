@@ -93,6 +93,7 @@ h2{
 }
 .button-1:active{
   background-color: var(--Desaturated-blue);
+}
 .cancel{
   display: block;
   color: var(--Desaturated-blue);
